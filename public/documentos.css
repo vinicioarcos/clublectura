@@ -2,3 +2,27 @@
 .bloque{break-inside:avoid;margin-top:34px}.campo{margin:12px 0}.campo b{display:block;font:13px Arial,sans-serif;letter-spacing:.3px}.campo i,.ayuda i{font-size:14px;color:#5c6268}.linea{display:block;border-bottom:1px solid #b9bec4;height:1.9em;margin-top:3px}.ayuda{font:14px/1.6 Arial,sans-serif;color:#5c6268;margin:4px 0 10px}.opciones{font:14px Arial,sans-serif}.declaracion{background:#f8ecf0;padding:12px 16px;font-size:15px;margin-top:18px}.notas{font-size:15px;padding-left:22px}.notas li{margin-bottom:10px}.compacto{display:flex;flex-wrap:wrap;gap:0 26px}.compacto .campo{flex:1 1 230px}@media print{.bloque{margin-top:22px}.ayuda{font-size:9.5pt}.linea{height:2.1em}.notas{font-size:9.5pt}}
 
 .tabla{width:100%;border-collapse:collapse;margin:14px 0;font:14px Arial,sans-serif}.tabla th,.tabla td{border:1px solid #c6cbd1;padding:8px 10px;text-align:left;vertical-align:top}.tabla th{background:#f8ecf0;font-size:13px;letter-spacing:.3px}.tabla thead{display:table-header-group}.tabla tbody td:nth-child(2),.tabla tbody td:nth-child(3){min-width:92px}.tabla tbody tr{height:2.6em}@media print{.tabla{font-size:9pt}.tabla th,.tabla td{padding:5px 6px}}
+
+.form-campo{margin:12px 0}
+.form-campo label{display:block;font:13px Arial,sans-serif;letter-spacing:.3px;color:#21252a}
+.form-campo label i,.grupo legend i{font:italic 13px Georgia,serif;color:#5c6268;letter-spacing:0}
+.form-campo input[type=text],.form-campo input[type=email],.form-campo textarea{display:block;width:100%;font:16px/1.6 Georgia,serif;color:#21252a;background:#fcfcfd;border:0;border-bottom:1px solid #b9bec4;border-radius:0;padding:6px 4px;margin-top:3px}
+.form-campo textarea{resize:vertical;border:1px solid #b9bec4;background:#fcfcfd}
+.form-campo input:focus,.form-campo textarea:focus{outline:2px solid #790b32;outline-offset:1px;background:#fff}
+.grupo{border:1px solid #d7dbe0;margin:16px 0;padding:12px 16px 14px}
+.grupo legend{font:13px Arial,sans-serif;letter-spacing:.3px;padding:0 6px}
+.opcion{display:block;font:15px/1.7 Georgia,serif;margin:5px 0;cursor:pointer}
+.opcion input{margin-right:9px;accent-color:#790b32;width:15px;height:15px;vertical-align:-1px}
+.reservado{background:#f6f7f9;border:1px dashed #b9bec4;padding:4px 20px 16px;margin-top:38px}
+.boton-claro{background:#fff;color:#790b32;border:1px solid #790b32}
+@media print{
+  .form-campo label{font-size:8.5pt}
+  .form-campo input[type=text],.form-campo input[type=email],.form-campo textarea{font-size:10.5pt;background:transparent;border-bottom:1px solid #777;padding:2px 0;min-height:1.5em}
+  .form-campo textarea{border:1px solid #777}
+  .opcion{font-size:10pt;margin:3px 0}
+  .grupo{border-color:#777;padding:8px 12px 10px}
+  .reservado{background:transparent;border:1px dashed #777}
+  .boton-claro{display:none}
+  #aviso-privacidad{font-size:9pt}
+  input,textarea{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+}

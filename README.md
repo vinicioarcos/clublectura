@@ -1,6 +1,6 @@
 # Club de Lectura Economía UTC
 
-Web estática responsive lista para desplegar en Vercel. HTML, CSS y JavaScript, sin dependencias ni compilación. Incluye borradores de estatutos (25 artículos), reglamento (21 artículos), guía de lectura, privacidad y dos formatos de trabajo: la ficha de aporte individual y la ficha operativa de programación interuniversitaria. Versión inicial: 24 de noviembre de 2026.
+Web estática responsive lista para desplegar en Vercel. HTML, CSS y JavaScript, sin dependencias ni compilación. Incluye borradores de estatutos (25 artículos), reglamento (21 artículos), guía de lectura, privacidad y tres formatos de trabajo: la solicitud de ingreso, la ficha de aporte individual y la ficha operativa de programación interuniversitaria. Versión inicial: 24 de noviembre de 2026.
 
 ## Desplegar en Vercel
 
@@ -9,6 +9,8 @@ Web estática responsive lista para desplegar en Vercel. HTML, CSS y JavaScript,
 3. Seleccionar **Other** como framework. Root Directory: la carpeta que contiene `vercel.json` (si se subió el contenido directamente, es la raíz).
 4. No definir comando de compilación ni de instalación. Output Directory: `public`, ya declarado en `vercel.json`.
 5. Desplegar. Vercel asignará una URL. No se necesita base de datos, variables de entorno ni credenciales dentro del código.
+
+Para generar las copias en Word hace falta pandoc; no es necesario para desplegar ni para ver la web, solo para regenerar los `.docx`.
 
 Alternativa con Vercel CLI instalado: ejecutar `vercel` desde esta carpeta para crear una vista previa y `vercel --prod` para publicar después de revisarla. La cuenta se autentica mediante los mecanismos oficiales de Vercel, nunca escribiendo tokens en los archivos.
 
@@ -22,13 +24,15 @@ Abrir `public/index.html` en el navegador o, desde la raíz del proyecto, ejecut
 - `public/styles.css`: colores, tipografía y diseño responsive.
 - `public/contenido.js`: capítulos y URL de inscripción (`registroUrl`). Solo se activan direcciones HTTPS válidas. Dejar vacío hasta disponer de un formulario real. `correoContacto` está reservado para una ampliación y no se muestra automáticamente.
 - `public/app.js`: búsqueda de lecturas y avance personal.
+- `public/documentos/ficha-ingreso.md`: solicitud de ingreso que pide el Artículo 7 de los estatutos. La versión HTML es un formulario que se llena en el navegador y no envía datos: `public/ficha-ingreso.js` solo evita el envío accidental, limpia los campos y avisa antes de salir.
 - `public/documentos/ficha-aporte.md`: formato del aporte individual que pide el Artículo 7 del reglamento.
 - `public/documentos/ficha-programacion.md`: ficha operativa que exige el Artículo 13 antes de cada colaboración interuniversitaria.
-- `public/documentos/*.md`: documentos editables en texto Markdown.
+- `public/documentos/*.md`: fuente editorial de cada documento, en texto Markdown.
+- `public/documentos/*.docx`: copias en Word que se ofrecen con el botón «Descargar en Word». Son artefactos generados, no se editan a mano.
 - `public/documentos/*.html`: documentos listos para leer e imprimir o guardar como PDF desde el navegador.
 - `public/documentos.css`: formato de impresión de documentos.
 
-Los documentos HTML y Markdown son copias editoriales equivalentes: actualizar ambos al modificar la normativa. Las preguntas de la guía están también en `contenido.js`; mantenerlas sincronizadas. Las páginas citadas son de la numeración impresa del libro.
+Los documentos HTML y Markdown son copias editoriales equivalentes: actualizar ambos al modificar la normativa. Tras cambiar cualquier `.md`, regenerar las copias en Word con `sh generar-docx.sh` (requiere pandoc) y volver a desplegar; si no, el Word descargable queda desactualizado respecto a la web. Las preguntas de la guía están también en `contenido.js`; mantenerlas sincronizadas. Las páginas citadas son de la numeración impresa del libro.
 
 ## Decisiones editoriales pendientes
 

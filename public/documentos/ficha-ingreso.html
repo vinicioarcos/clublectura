@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Solicitud de ingreso al club · Economía UTC</title>
+<link rel="stylesheet" href="../documentos.css">
+</head>
+<body>
+<nav>
+<a href="../index.html#participar">Volver al club</a>
+<button id="print">Imprimir / guardar PDF</button>
+<button id="limpiar" type="button" class="boton-claro">Limpiar el formulario</button>
+<a href="ficha-ingreso.docx" download>Descargar en Word</a>
+</nav>
+<main>
+<p class="label">ECONOMÍA UTC · DOCUMENTOS DEL CLUB</p>
+<h1>Solicitud de ingreso al club</h1>
+<p class="notice">Formato propuesto para revisión y aprobación · Versión 1.0 · 24 de noviembre de 2026. No constituye normativa institucional vigente.</p>
+
+<p>El <strong>Artículo 7 de los estatutos</strong> establece que el ingreso es voluntario, mediante solicitud a la coordinación y conocimiento de las normas: <strong>no se exige examen, afiliación política ni pago</strong>. Esta ficha recoge solo los datos que el <strong>Artículo 3 del reglamento</strong> considera necesarios para organizar las actividades.</p>
+
+<p class="declaracion" id="aviso-privacidad"><strong>Este formulario no envía nada por internet.</strong> Puedes llenarlo en pantalla y luego usar «Imprimir / guardar PDF» para entregarlo a la coordinación. Lo que escribes permanece en esta página: no se guarda en el navegador, no viaja a ningún servidor y el club no lo recibe hasta que tú se lo entregues. Al cerrar o recargar la página, los datos se pierden.</p>
+<p class="ayuda">El canal al que se entrega la solicitud se publicará cuando la coordinación lo confirme. Hasta entonces, la ficha se entrega por los medios que la coordinación indique.</p>
+
+<form id="ficha" novalidate>
+
+<article class="bloque">
+<h2>1. Datos de la persona solicitante</h2>
+<p class="ayuda">El Artículo 3 limita el registro a nombre, universidad o carrera y un medio de contacto institucional cuando esté disponible.</p>
+<div class="compacto">
+<p class="form-campo"><label for="nombre">Nombre completo</label><input id="nombre" name="nombre" type="text" autocomplete="name"></p>
+<p class="form-campo"><label for="universidad">Universidad</label><input id="universidad" name="universidad" type="text"></p>
+</div>
+<div class="compacto">
+<p class="form-campo"><label for="carrera">Carrera</label><input id="carrera" name="carrera" type="text"></p>
+<p class="form-campo"><label for="nivel">Semestre o nivel <i>(opcional)</i></label><input id="nivel" name="nivel" type="text"></p>
+</div>
+<p class="form-campo"><label for="correo">Correo institucional <i>(si no dispones de uno, indica otro medio de contacto)</i></label><input id="correo" name="correo" type="email" autocomplete="email"></p>
+<fieldset class="grupo">
+<legend>Vínculo con el club <i>(Artículo 6 de los estatutos)</i></legend>
+<label class="opcion"><input type="radio" name="vinculo" value="estudiante-utc"> Estudiante de Economía UTC</label>
+<label class="opcion"><input type="radio" name="vinculo" value="otra-carrera"> Estudiante de otra carrera</label>
+<label class="opcion"><input type="radio" name="vinculo" value="otra-universidad"> Estudiante de otra universidad</label>
+<label class="opcion"><input type="radio" name="vinculo" value="docente"> Docente</label>
+<label class="opcion"><input type="radio" name="vinculo" value="graduado"> Graduado</label>
+<label class="opcion"><input type="radio" name="vinculo" value="invitado"> Invitado a actividades específicas</label>
+</fieldset>
+</article>
+
+<article class="bloque">
+<h2>2. Participación</h2>
+<fieldset class="grupo">
+<legend>Modalidad que puedes sostener</legend>
+<label class="opcion"><input type="checkbox" name="modalidad" value="virtual"> Virtual</label>
+<label class="opcion"><input type="checkbox" name="modalidad" value="presencial"> Presencial</label>
+<label class="opcion"><input type="checkbox" name="modalidad" value="hibrida"> Indistinta</label>
+</fieldset>
+<p class="form-campo"><label for="disponibilidad">Disponibilidad horaria <i>(se propone una sesión semanal de sesenta a noventa minutos, Artículo 6 del reglamento)</i></label><input id="disponibilidad" name="disponibilidad" type="text"></p>
+<p class="form-campo"><label for="ajustes">¿Necesitas algún ajuste razonable para participar? <i>(el Artículo 8 de los estatutos reconoce este derecho: formato accesible, subtitulado, tiempos ampliados u otro)</i></label><textarea id="ajustes" name="ajustes" rows="2"></textarea></p>
+<p class="form-campo"><label class="opcion"><input type="checkbox" name="expositor" value="si"> Me interesa postular como expositor en actividades interuniversitarias <i>(la selección es por convocatoria abierta, Artículo 14 del reglamento)</i></label></p>
+</article>
+
+<article class="bloque">
+<h2>3. Interés y propuestas</h2>
+<p class="ayuda">Esta sección es opcional y <strong>no se evalúa</strong>: el Artículo 7 prohíbe exigir examen para el ingreso.</p>
+<p class="form-campo"><label for="motivacion">¿Por qué te interesa participar? <i>(opcional)</i></label><textarea id="motivacion" name="motivacion" rows="3"></textarea></p>
+<p class="form-campo"><label for="propuesta">¿Hay alguna lectura que quisieras proponer? <i>(opcional; el Artículo 8 de los estatutos reconoce el derecho a proponer lecturas)</i></label><textarea id="propuesta" name="propuesta" rows="2"></textarea></p>
+</article>
+
+<article class="bloque">
+<h2>4. Declaraciones</h2>
+<p class="ayuda">El Artículo 7 exige conocimiento de las normas para el ingreso. Puedes consultarlas antes de firmar: <a href="estatutos.html">estatutos</a> y <a href="reglamento.html">reglamento</a>.</p>
+<p class="form-campo"><label class="opcion"><input type="checkbox" name="d-normas" value="si"> He leído los estatutos y el reglamento y conozco las normas del club.</label></p>
+<p class="form-campo"><label class="opcion"><input type="checkbox" name="d-voluntaria" value="si"> Entiendo que la participación es voluntaria y gratuita, y que no se exige examen, afiliación política ni pago.</label></p>
+<p class="form-campo"><label class="opcion"><input type="checkbox" name="d-retiro" value="si"> Sé que puedo retirarme en cualquier momento comunicándolo a la coordinación.</label></p>
+<p class="form-campo"><label class="opcion"><input type="checkbox" name="d-datos" value="si"> Autorizo el uso de estos datos únicamente para organizar las actividades del club, y sé que puedo solicitar su corrección o retiro.</label></p>
+<p class="form-campo"><label class="opcion"><input type="checkbox" name="d-listas" value="si"> Entiendo que no se publicarán listas con contactos personales.</label></p>
+<p class="ayuda">La siguiente autorización es <strong>opcional</strong> y no condiciona el ingreso:</p>
+<p class="form-campo"><label class="opcion"><input type="checkbox" name="d-publicacion" value="si"> Autorizo que mi nombre aparezca junto a los productos académicos que yo elabore, si el club los publica <i>(Artículo 22 de los estatutos)</i>.</label></p>
+</article>
+
+<article class="bloque">
+<h2>5. Firma</h2>
+<div class="compacto">
+<p class="form-campo"><label for="firma">Nombre y firma</label><input id="firma" name="firma" type="text"></p>
+<p class="form-campo"><label for="fecha">Fecha</label><input id="fecha" name="fecha" type="text" placeholder="dd/mm/aaaa"></p>
+</div>
+</article>
+
+<article class="bloque reservado">
+<h2>6. Reservado a la coordinación</h2>
+<p class="ayuda">No llenar. Lo completa quien recibe la solicitud (Artículos 3 y 10 del reglamento).</p>
+<div class="compacto">
+<p class="form-campo"><label for="recepcion">Fecha de recepción</label><input id="recepcion" name="recepcion" type="text"></p>
+<p class="form-campo"><label for="responsable">Responsable que recibe</label><input id="responsable" name="responsable" type="text"></p>
+</div>
+<div class="compacto">
+<p class="form-campo"><label for="registro">Número de registro</label><input id="registro" name="registro" type="text"></p>
+<p class="form-campo"><label for="periodo">Período académico</label><input id="periodo" name="periodo" type="text"></p>
+</div>
+</article>
+
+</form>
+
+<h2>Notas sobre esta ficha</h2>
+<ul class="notas">
+<li>Presentar la solicitud no implica una evaluación. El Artículo 7 de los estatutos establece que el ingreso es voluntario y que no se exige examen, afiliación política ni pago.</li>
+<li>Los datos se limitan a lo necesario para organizar las actividades. Puedes verificar tus registros y pedir su corrección o retiro en cualquier momento (Artículos 3 y 10 del reglamento).</li>
+<li>Si necesitas entregar la ficha en otro formato por razones de accesibilidad, comunícalo a la coordinación: el Artículo 8 de los estatutos reconoce el derecho a solicitar ajustes razonables.</li>
+<li>El retiro del club puede comunicarse en cualquier momento y no requiere justificación (Artículo 7 de los estatutos).</li>
+</ul>
+</main>
+<script src="../print.js"></script>
+<script src="../ficha-ingreso.js"></script>
+</body>
+</html>
