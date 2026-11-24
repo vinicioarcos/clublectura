@@ -54,39 +54,35 @@ Las citas y paráfrasis identificarán sus fuentes. Si se utilizan herramientas 
 
 Antes de cada colaboración se acordará una ficha operativa con responsables de cada institución, objetivos, calendario, plataforma, número de expositores, accesibilidad, productos y criterios de difusión. La coordinación no asumirá compromisos de otra universidad sin confirmación de su enlace.
 
-## Artículo 14. Encuentro UTC–San Marcos
+## Artículo 14. Selección de expositores
 
-Para el semestre de implementación se prevé un encuentro con la comunidad de Economía de la Universidad Nacional Mayor de San Marcos, Perú. Participarán diez estudiantes expositores, cinco de cada universidad. El profesor José Antonio es el enlace mencionado para San Marcos; sus datos completos, las fechas y el programa deberán confirmarse. Esta disposición no acredita un convenio formal.
+Se realizará una convocatoria abierta. Cada universidad seleccionará el número de representantes acordado en la ficha operativa, con criterios comunes: comprensión del texto (treinta por ciento), argumentación y evidencia (treinta), colaboración (veinte) y claridad comunicativa (veinte). Se publicarán criterios y resultados; se recibirán observaciones durante tres días hábiles. Un empate se resolverá con una breve intervención evaluada con los mismos criterios. Se procurará diversidad de niveles y oportunidades.
 
-## Artículo 15. Selección de expositores
+## Artículo 15. Equipos y productos
 
-Se realizará una convocatoria abierta. Cada universidad seleccionará sus cinco representantes con criterios comunes: comprensión del texto (treinta por ciento), argumentación y evidencia (treinta), colaboración (veinte) y claridad comunicativa (veinte). Se publicarán criterios y resultados; se recibirán observaciones durante tres días hábiles. Un empate se resolverá con una breve intervención evaluada con los mismos criterios. Se procurará diversidad de niveles y oportunidades.
+Se propone integrar equipos mixtos, preferentemente parejas, con al menos un estudiante de cada universidad participante y en el número acordado en la ficha operativa. Cada pareja presentará una tesis del libro, evidencia de los países participantes y una objeción fundamentada. Los ejes, la extensión y la duración se acordarán antes de preparar las exposiciones. El producto conjunto podrá ser una reseña o memoria académica.
 
-## Artículo 16. Equipos y productos del encuentro
+## Artículo 16. Modalidad y movilidad
 
-Se propone integrar cinco parejas, con un estudiante de cada universidad. Cada pareja presentará una tesis del libro, evidencia de ambos países y una objeción fundamentada. Los ejes, la extensión y la duración se acordarán antes de preparar las exposiciones. El producto conjunto podrá ser una reseña o memoria académica.
+Cada encuentro contará con una alternativa virtual. Las visitas presenciales serán voluntarias y dependerán de autorizaciones, financiamiento y condiciones logísticas. No participar en un viaje no disminuirá derechos académicos ni oportunidades de exposición. El club no garantiza becas, pasajes, alojamiento ni seguros.
 
-## Artículo 17. Modalidad y movilidad
-
-El encuentro contará con una alternativa virtual. Las visitas presenciales serán voluntarias y dependerán de autorizaciones, financiamiento y condiciones logísticas. No participar en un viaje no disminuirá derechos académicos ni oportunidades de exposición. El club no garantiza becas, pasajes, alojamiento ni seguros.
-
-## Artículo 18. Organización del evento
+## Artículo 17. Organización del evento
 
 La coordinación confirmará plataforma y acceso, realizará un ensayo, asignará moderación y soporte y preverá un procedimiento ante fallos de conexión. El programa distinguirá exposiciones, comentarios y preguntas. Las grabaciones solo se realizarán después de informar y gestionar las autorizaciones pertinentes.
 
-## Artículo 19. Publicación y comunicación
+## Artículo 18. Publicación y comunicación
 
 La web indicará si una actividad está propuesta, confirmada o realizada. Las reseñas se publicarán con autorización y reconocimiento de sus autores. El uso de nombres institucionales será descriptivo; logotipos, certificados o mensajes en representación de las universidades requieren autorización.
 
-## Artículo 20. Gestión de incidencias
+## Artículo 19. Gestión de incidencias
 
 Los reportes se presentarán por el canal designado a la coordinación o al docente asesor. Se acusará recibo dentro de tres días hábiles; se informarán los hechos a la persona aludida, que dispondrá de cinco días hábiles para responder. Resolverán al menos dos responsables sin conflicto de interés mediante decisión escrita. Podrán acordarse orientación, reparación o restricciones temporales proporcionales; cualquier separación definitiva deberá resolverla la Asamblea. Se podrá solicitar revisión dentro de cinco días hábiles. Ante riesgos o asuntos fuera del ámbito del club se activarán los canales institucionales.
 
-## Artículo 21. Evaluación y archivo
+## Artículo 20. Evaluación y archivo
 
 Al cierre se recogerá retroalimentación sobre accesibilidad, carga de lectura y calidad del intercambio. Se archivarán actas y productos autorizados. Los datos de contacto y asistencia se revisarán al cierre de cada período y se eliminarán cuando dejen de ser necesarios, salvo obligaciones institucionales aplicables. Las actas públicas excluirán datos personales innecesarios.
 
-## Artículo 22. Actualización y vigencia
+## Artículo 21. Actualización y vigencia
 
 Las modificaciones se comunicarán antes de su votación y se aprobarán por la Asamblea sin contradecir el estatuto. La primera versión y sus porcentajes, plazos y criterios son propuestas sujetas a aprobación. Se registrarán fecha, versión y acta de aprobación.
 
