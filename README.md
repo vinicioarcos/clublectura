@@ -50,7 +50,7 @@ El sitio no registra asistentes, no envía formularios ni correos y no incluye p
 
 Las colaboraciones interuniversitarias se presentan como actividades en preparación, no como convenios aprobados. Cada una se acuerda mediante la ficha operativa de programación interuniversitaria, con modalidad virtual garantizada y visitas opcionales. No se inventaron fechas, enlaces de reunión, correos o compromisos de financiamiento.
 
-No se distribuye el PDF protegido de ningún libro. Las portadas de las lecturas ya realizadas se reproducen en tamaño reducido para identificar cada obra, con fines académicos y sin ánimo de lucro; sus derechos pertenecen a sus editoriales y deben retirarse si alguna lo solicita. La lectura propuesta se representa con una composición gráfica propia hecha en CSS. El código no usa recursos externos: las imágenes se sirven desde el propio dominio.
+No se distribuye el PDF protegido de ningún libro. Las portadas de las lecturas se reproducen en tamaño reducido para identificar cada obra, con fines académicos y sin ánimo de lucro; sus derechos pertenecen a sus editoriales y deben retirarse si alguna lo solicita. El código no usa recursos externos: las imágenes se sirven desde el propio dominio.
 
 ## Verificación
 
