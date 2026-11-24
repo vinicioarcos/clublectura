@@ -1,0 +1,98 @@
+# Reglamento de funcionamiento del Club de Lectura Economía UTC
+
+Proyecto para revisión y aprobación · Versión 1.0 · 24 de noviembre de 2026. No constituye normativa institucional vigente.
+
+## Artículo 1. Objeto y aplicación
+
+Este reglamento desarrolla la organización de las lecturas, sesiones, encuentros y productos del club. Se aplicará una vez aprobado conforme al estatuto. No sustituye la normativa académica de las universidades participantes.
+
+## Artículo 2. Convocatoria semestral
+
+La coordinación publicará objetivos, obra propuesta, modalidad, carga de lectura, criterios de participación y canal de contacto antes de abrir el registro. Las fechas pendientes se identificarán expresamente. No se anunciará una actividad como confirmada sin acuerdo de sus responsables.
+
+## Artículo 3. Registro
+
+El registro recogerá nombre, universidad o carrera y un medio de contacto institucional cuando esté disponible. Se informará quién custodia los datos, para qué se utilizan y cómo solicitar corrección o retiro. No se publicarán listas con contactos personales.
+
+## Artículo 4. Selección del libro
+
+La coordinación presentará al menos una propuesta con reseña, dificultad, extensión, disponibilidad y preguntas orientadoras. La Asamblea aprobará la selección. Se podrán combinar capítulos con lecturas de contraste. Una obra publicada por otra institución se identificará con su autor y editorial reales.
+
+## Artículo 5. Acceso a materiales
+
+Se utilizarán ejemplares propios, bibliotecas, enlaces autorizados o materiales con permiso. La web no alojará libros completos protegidos sin autorización. Las adaptaciones accesibles se gestionarán mediante los canales habilitados.
+
+## Artículo 6. Plan de lectura
+
+La ruta indicará capítulos, preguntas y productos. Se recomienda una sesión semanal de sesenta a noventa minutos, ajustable por acuerdo. Las semanas de mayor dificultad podrán dedicarse a un solo capítulo. Todo cambio se comunicará oportunamente.
+
+## Artículo 7. Preparación individual
+
+Cada participante llevará una idea central, una evidencia o ejemplo y una pregunta crítica. Las fichas podrán ser escritas, orales u ofrecidas en un formato accesible previamente acordado.
+
+## Artículo 8. Desarrollo de sesiones
+
+La moderación distribuirá el tiempo entre contextualización, discusión y síntesis. Se recomienda destinar la mayor parte del encuentro al intercambio. Habrá moderador y relator rotativos; sus funciones no implican autoridad sobre las opiniones de los participantes.
+
+## Artículo 9. Discusión fundamentada
+
+Las intervenciones distinguirán las afirmaciones del autor, la evidencia disponible y la valoración personal. Se citarán capítulos o páginas y se admitirán argumentos discrepantes. No se permitirán ataques personales, discriminación, intimidación ni difusión no autorizada de información privada.
+
+## Artículo 10. Seguimiento
+
+La secretaría llevará únicamente los registros necesarios de participación y productos. Los participantes podrán verificar sus registros. El avance marcado en la web es personal, permanece en el navegador y no sustituye la asistencia ni genera una calificación.
+
+## Artículo 11. Continuidad y ausencias
+
+La inasistencia ocasional no implica expulsión. La coordinación podrá acordar una actividad alternativa por razones justificadas. Para recomendar una constancia de participación se propone asistir al menos al setenta por ciento de las sesiones o completar sus equivalentes y entregar una reflexión final, sujeto a aprobación y a los requisitos de la instancia emisora.
+
+## Artículo 12. Honestidad académica e IA
+
+Las citas y paráfrasis identificarán sus fuentes. Si se utilizan herramientas de IA para apoyar un producto, se declarará su uso y se verificará la información. Cada participante es responsable de comprender y defender lo presentado. El uso de herramientas no sustituye la lectura de los pasajes analizados.
+
+## Artículo 13. Programación con otras universidades
+
+Antes de cada colaboración se acordará una ficha operativa con responsables de cada institución, objetivos, calendario, plataforma, número de expositores, accesibilidad, productos y criterios de difusión. La coordinación no asumirá compromisos de otra universidad sin confirmación de su enlace.
+
+## Artículo 14. Encuentro UTC–San Marcos
+
+Para el semestre de implementación se prevé un encuentro con la comunidad de Economía de la Universidad Nacional Mayor de San Marcos, Perú. Participarán diez estudiantes expositores, cinco de cada universidad. El profesor José Antonio es el enlace mencionado para San Marcos; sus datos completos, las fechas y el programa deberán confirmarse. Esta disposición no acredita un convenio formal.
+
+## Artículo 15. Selección de expositores
+
+Se realizará una convocatoria abierta. Cada universidad seleccionará sus cinco representantes con criterios comunes: comprensión del texto (treinta por ciento), argumentación y evidencia (treinta), colaboración (veinte) y claridad comunicativa (veinte). Se publicarán criterios y resultados; se recibirán observaciones durante tres días hábiles. Un empate se resolverá con una breve intervención evaluada con los mismos criterios. Se procurará diversidad de niveles y oportunidades.
+
+## Artículo 16. Equipos y productos del encuentro
+
+Se propone integrar cinco parejas, con un estudiante de cada universidad. Cada pareja presentará una tesis del libro, evidencia de ambos países y una objeción fundamentada. Los ejes, la extensión y la duración se acordarán antes de preparar las exposiciones. El producto conjunto podrá ser una reseña o memoria académica.
+
+## Artículo 17. Modalidad y movilidad
+
+El encuentro contará con una alternativa virtual. Las visitas presenciales serán voluntarias y dependerán de autorizaciones, financiamiento y condiciones logísticas. No participar en un viaje no disminuirá derechos académicos ni oportunidades de exposición. El club no garantiza becas, pasajes, alojamiento ni seguros.
+
+## Artículo 18. Organización del evento
+
+La coordinación confirmará plataforma y acceso, realizará un ensayo, asignará moderación y soporte y preverá un procedimiento ante fallos de conexión. El programa distinguirá exposiciones, comentarios y preguntas. Las grabaciones solo se realizarán después de informar y gestionar las autorizaciones pertinentes.
+
+## Artículo 19. Publicación y comunicación
+
+La web indicará si una actividad está propuesta, confirmada o realizada. Las reseñas se publicarán con autorización y reconocimiento de sus autores. El uso de nombres institucionales será descriptivo; logotipos, certificados o mensajes en representación de las universidades requieren autorización.
+
+## Artículo 20. Gestión de incidencias
+
+Los reportes se presentarán por el canal designado a la coordinación o al docente asesor. Se acusará recibo dentro de tres días hábiles; se informarán los hechos a la persona aludida, que dispondrá de cinco días hábiles para responder. Resolverán al menos dos responsables sin conflicto de interés mediante decisión escrita. Podrán acordarse orientación, reparación o restricciones temporales proporcionales; cualquier separación definitiva deberá resolverla la Asamblea. Se podrá solicitar revisión dentro de cinco días hábiles. Ante riesgos o asuntos fuera del ámbito del club se activarán los canales institucionales.
+
+## Artículo 21. Evaluación y archivo
+
+Al cierre se recogerá retroalimentación sobre accesibilidad, carga de lectura y calidad del intercambio. Se archivarán actas y productos autorizados. Los datos de contacto y asistencia se revisarán al cierre de cada período y se eliminarán cuando dejen de ser necesarios, salvo obligaciones institucionales aplicables. Las actas públicas excluirán datos personales innecesarios.
+
+## Artículo 22. Actualización y vigencia
+
+Las modificaciones se comunicarán antes de su votación y se aprobarán por la Asamblea sin contradecir el estatuto. La primera versión y sus porcentajes, plazos y criterios son propuestas sujetas a aprobación. Se registrarán fecha, versión y acta de aprobación.
+
+## Constancia de aprobación
+
+Fecha: __________________
+Acta: __________________
+Responsables: __________________
+Validación institucional, si corresponde: __________________
