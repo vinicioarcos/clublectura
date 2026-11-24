@@ -24,6 +24,7 @@ Abrir `public/index.html` en el navegador o, desde la raíz del proyecto, ejecut
 - `public/styles.css`: colores, tipografía y diseño responsive.
 - `public/contenido.js`: capítulos y URL de inscripción (`registroUrl`). Solo se activan direcciones HTTPS válidas. Dejar vacío hasta disponer de un formulario real. `correoContacto` está reservado para una ampliación y no se muestra automáticamente.
 - `public/app.js`: búsqueda de lecturas y avance personal.
+- `public/img/`: portadas de las lecturas realizadas, optimizadas para la web. Los originales sin procesar están en `graficos/`, fuera de `public/`, y no se publican.
 - `public/documentos/taller-lectura.md`: proceso del taller de lectura interuniversitario: sorteo de capítulos por paridad, orden de exposición, programa del evento y retroalimentación.
 - `public/documentos/ficha-ingreso.md`: solicitud de ingreso que pide el Artículo 7 de los estatutos. La versión HTML es un formulario que se llena en el navegador y no envía datos: `public/ficha-ingreso.js` solo evita el envío accidental, limpia los campos y avisa antes de salir.
 - `public/documentos/ficha-aporte.md`: formato del aporte individual que pide el Artículo 7 del reglamento.
@@ -49,7 +50,7 @@ El sitio no registra asistentes, no envía formularios ni correos y no incluye p
 
 Las colaboraciones interuniversitarias se presentan como actividades en preparación, no como convenios aprobados. Cada una se acuerda mediante la ficha operativa de programación interuniversitaria, con modalidad virtual garantizada y visitas opcionales. No se inventaron fechas, enlaces de reunión, correos o compromisos de financiamiento.
 
-No se distribuye el PDF protegido del libro ni portadas editoriales. Las representaciones de libros son composiciones gráficas propias hechas en CSS. El código no usa recursos externos.
+No se distribuye el PDF protegido de ningún libro. Las portadas de las lecturas ya realizadas se reproducen en tamaño reducido para identificar cada obra, con fines académicos y sin ánimo de lucro; sus derechos pertenecen a sus editoriales y deben retirarse si alguna lo solicita. La lectura propuesta se representa con una composición gráfica propia hecha en CSS. El código no usa recursos externos: las imágenes se sirven desde el propio dominio.
 
 ## Verificación
 
