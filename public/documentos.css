@@ -26,3 +26,5 @@
   #aviso-privacidad{font-size:9pt}
   input,textarea{-webkit-print-color-adjust:exact;print-color-adjust:exact}
 }
+
+.subtitulo{font:italic 20px Georgia,serif;color:#5c6268;margin:-14px 0 20px}@media print{.subtitulo{font-size:12pt;margin:-8px 0 12px}}

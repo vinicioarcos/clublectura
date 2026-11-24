@@ -1,6 +1,6 @@
 # Club de Lectura Economía UTC
 
-Web estática responsive lista para desplegar en Vercel. HTML, CSS y JavaScript, sin dependencias ni compilación. Incluye borradores de estatutos (25 artículos), reglamento (21 artículos), guía de lectura, privacidad y tres formatos de trabajo: la solicitud de ingreso, la ficha de aporte individual y la ficha operativa de programación interuniversitaria. Versión inicial: 24 de noviembre de 2026.
+Web estática responsive lista para desplegar en Vercel. HTML, CSS y JavaScript, sin dependencias ni compilación. Incluye borradores de estatutos (25 artículos), reglamento (21 artículos), guía de lectura, privacidad y cuatro formatos de trabajo: la solicitud de ingreso, la ficha de aporte individual, la ficha operativa de programación interuniversitaria y el proceso del taller «Capítulo a Capítulo». Versión inicial: 24 de noviembre de 2026.
 
 ## Desplegar en Vercel
 
@@ -24,6 +24,7 @@ Abrir `public/index.html` en el navegador o, desde la raíz del proyecto, ejecut
 - `public/styles.css`: colores, tipografía y diseño responsive.
 - `public/contenido.js`: capítulos y URL de inscripción (`registroUrl`). Solo se activan direcciones HTTPS válidas. Dejar vacío hasta disponer de un formulario real. `correoContacto` está reservado para una ampliación y no se muestra automáticamente.
 - `public/app.js`: búsqueda de lecturas y avance personal.
+- `public/documentos/taller-lectura.md`: proceso del taller de lectura interuniversitario: sorteo de capítulos por paridad, orden de exposición, programa del evento y retroalimentación.
 - `public/documentos/ficha-ingreso.md`: solicitud de ingreso que pide el Artículo 7 de los estatutos. La versión HTML es un formulario que se llena en el navegador y no envía datos: `public/ficha-ingreso.js` solo evita el envío accidental, limpia los campos y avisa antes de salir.
 - `public/documentos/ficha-aporte.md`: formato del aporte individual que pide el Artículo 7 del reglamento.
 - `public/documentos/ficha-programacion.md`: ficha operativa que exige el Artículo 13 antes de cada colaboración interuniversitaria.
